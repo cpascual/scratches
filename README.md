@@ -1,7 +1,9 @@
 scratches
 =========
 
-This repo contains small Scratch programs that I created for fun and experimentation
+This repo contains small Scratch programs that I created for fun and experimentation.
+
+Hint: you can upload an .sb2 file directly to the [online scratch editor](https://scratch.mit.edu/projects/editor/) and run it there.
 
 Comet_simulation
 ----------------
